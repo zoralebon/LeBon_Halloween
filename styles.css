@@ -93,8 +93,8 @@ span {
 /* Respnsive behavior */
 @media (max-width: 768px) {
     body {
-        background-size: contain;
-        background-position: top right;
+        background-size: cover;
+        background-position: top center;
     }
     
     h1 {
