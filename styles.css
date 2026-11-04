@@ -7,14 +7,16 @@
 
 /*Responsive container settings */
 body {
+    background-color: black;
     background-image: url('images/background.png');
-    background-size: cover;
-    background-position: top;
+    background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     margin: 0;
     padding: 0;
-    min-height: 200vh;
+    min-height: 100vh;
+    min-width: 100vh;
 }
 
 .container {
