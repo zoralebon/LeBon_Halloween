@@ -94,7 +94,7 @@ span {
 @media (max-width: 768px) {
     body {
         background-size: contain;
-        background-position: top center;
+        background-position: top right;
     }
     
     h1 {
